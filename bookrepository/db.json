@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "review": "«Es una verdad universalmente aceptada que todo soltero en posesión de una gran fortuna necesita una esposa ». Nueva traducción ilustrada de la novela de Jane Austen. Este comienzo, que, junto con el de Ana Karénina, es quizás uno de los más famosos de la historia de la literatura,"
+    },
+    {
+      "id": 2,
+      "title": "El guardián entre el centeno",
+      "author": "J. D. Salinger",
+      "genre": "Otro",
+      "review": "Las peripecias del adolescente Holden Cauldfiel en una Nueva York que se recupera de la guerra influyeron en sucesivas generaciones de todo el mundo."
+    },
+    {
+      "id": 3,
+      "title": "Cumbres borrascosas",
+      "author": "Emily Brontë",
+      "genre": "Otro",
+      "review": "La poderosa y hosca figura del atormentado Heathcliff domina Cumbres Borrascosas, novela apasionada y tempestuosa cuya sensibilidad se adelantó a su tiempo. Los brumosos y sombríos páramos de Yorkshire son el singular escenario donde se desarrolla con fuerza arrebatadora esta historia de venganza y odio, de pasiones desatadas y amores desesperados."
+    }
+  ]
+}
